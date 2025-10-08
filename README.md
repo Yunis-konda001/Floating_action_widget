@@ -1,7 +1,7 @@
 # Floating Action Button (FAB) Demo App  
 
 **Created by:** Kumi Yunis Konda  
-**Course:** Flutter Development  
+**Course:** Mobile development  
 **Widget Focus:** FloatingActionButton  
 **Presentation:** Week 6 - Wednesday  
 
@@ -13,14 +13,14 @@ This Flutter app shows you how to create a **smart Floating Action Button** that
 
 Instead of the typical "add item" button, this FAB opens up a menu with multiple options - just like you see in popular apps like WhatsApp, Google Keep, or Twitter.
 
-### ✨ Key Features
+### Key Features
 - **Interactive FAB**: Tap the floating button to see magic happen
 - **Bottom Sheet Menu**: Choose from multiple actions in a clean popup
 - **User Feedback**: Get instant confirmation with snackbar messages
 - **Real-world Design**: Looks and feels like professional apps
 
 ### Why I Built This
-I created this demo to show my classmates that Flutter's FloatingActionButton can be much more powerful than most tutorials suggest. It's not just about adding items - it's about creating smooth user experiences!
+I created this demo to present it in a class session in order to show that Flutter's FloatingActionButton can be much more powerful than most tutorials suggest. It's not just about adding items - it's about creating smooth user experiences
 
 
 ## Learning Objective
@@ -71,7 +71,7 @@ FloatingActionButton(
    flutter run
    ```
 
-## What You'll Learn
+## What You will Learn
 
 - How to create interactive FloatingActionButtons
 - Working with BottomSheet widgets for menus
