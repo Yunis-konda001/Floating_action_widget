@@ -49,4 +49,4 @@ FloatingActionButton(
 
 | Floating Action Button | Bottom Sheet Open |
 |-------------------------|------------------|
-| ![FAB Screenshot](screenshots/fab_home.png) | ![Bottom Sheet Screenshot](screenshots/fab_bottom_sheet.png) |
+| ![FAB Screenshot](lib/screenshoots/fab_home.png) | ![Bottom Sheet Screenshot](lib/screenshoots/fab_bottom_sheet.png) |
