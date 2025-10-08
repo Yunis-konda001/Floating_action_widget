@@ -51,9 +51,7 @@ FloatingActionButton(
 
 | Floating Action Button | Bottom Sheet Menu |
 |-------------------------|------------------|
-| ![FAB Screenshot]()
-
- ![FAB Screenshot]()
+| ![FAB Screenshot](lib/screenshoots/fab_home.png) | ![Bottom Sheet Screenshot](lib/screenshoots/fab_bottom_sheet.png) |
 
 ## How to Run This App
 
@@ -95,6 +93,4 @@ Feel free to fork this project and experiment with different FAB configurations!
 
 ---
 
-
-
-[alt fab_home](fab_demo\lib\screenshoots)
+*Created for Flutter Development Class - Demonstrating the power of FloatingActionButton widget* 🎓
