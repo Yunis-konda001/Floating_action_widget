@@ -2,23 +2,22 @@
 **By:** Kumi Yunis Konda  
 **Course:** Flutter Development  
 **Widget Presented:** FloatingActionButton  
-**Presentation Week:** Week 6
+**Presentation Week:** Week 6 On Wednesday
 
----
 
-## 📘 Project Overview
+
+## Project Overview
 
 This Flutter project demonstrates how to use a **Floating Action Button (FAB)** in a real-world scenario.  
 Instead of performing a single action, this FAB opens a **bottom sheet** that presents multiple user options — just like in modern apps such as **WhatsApp**, **Google Keep**, or **Twitter**, where the main button reveals several quick actions.
 
-The demo was built for an in-class presentation to showcase:
+I built this demo for an in-class presentation to showcase:
 1. How the Floating Action Button works in Flutter.
 2. How it can interact with other widgets like **BottomSheet** and **SnackBar**.
 3. The meaning and effects of three key FAB attributes.
 
----
 
-## 🎯 Learning Objective
+## Learning Objective
 
 The goal of this demo is to show that the **Floating Action Button** can do much more than just “add items.”  
 It can control real user interactions by triggering menus, forms, or navigation.  
@@ -29,7 +28,6 @@ In this example, pressing the FAB opens a **bottom sheet** that displays three r
 
 Each option responds with a short **SnackBar** message to show user feedback.
 
----
 
 ## Widget Description
 
@@ -45,8 +43,8 @@ FloatingActionButton(
 )
 
 
-## Screenshot of the Final UI
+## Screenshot of the UI Demo
 
-|| Floating Action Button | Bottom Sheet Open |
+| Floating Action Button | Bottom Sheet Open |
 |-------------------------|------------------|
-| ![FAB Screenshot](https://i.imgur.com/oG6DqYn.png) | ![Bottom Sheet Screenshot](https://i.imgur.com/SrpZKQS.png) |
+| ![FAB Screenshot](lib/screenshoots/fab_home.png) | ![Bottom Sheet Screenshot](lib/screenshoots/fab_bottom_sheet.png) |
