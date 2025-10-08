@@ -51,7 +51,7 @@ FloatingActionButton(
 
 | Floating Action Button | Bottom Sheet Menu |
 |-------------------------|------------------|
-| ![FAB Screenshot](screenshoots/fab_home.png) | ![Bottom Sheet Screenshot](screenshoots/fab_bottom_sheet.png) |
+| [!FAB Screenshot](lib/screenshoots/fab_home.png) | [!Bottom Sheet Screenshot](lib/screenshoots/fab_bottom_sheet.png) |
 
 ## How to Run This App
 
