@@ -49,6 +49,9 @@ FloatingActionButton(
 
 ## Screenshots
 
+<img width="617" height="573" alt="fab_home" src="https://github.com/user-attachments/assets/47e2dc57-5298-46e8-b943-500d26e5257a" />
+
+
 | Floating Action Button | Bottom Sheet Menu |
 |-------------------------|------------------|
 | [!FAB Screenshot](lib/screenshoots/fab_home.png) | [!Bottom Sheet Screenshot](lib/screenshoots/fab_bottom_sheet.png) |
