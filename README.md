@@ -43,3 +43,10 @@ FloatingActionButton(
   child: ...,       // icon or text inside the button
   backgroundColor: ... // color of the button
 )
+
+
+## Screenshot of the Final UI
+
+| Floating Action Button | Bottom Sheet Open |
+|-------------------------|------------------|
+| ![FAB Screenshot](screenshots/fab_home.png) | ![Bottom Sheet Screenshot](screenshots/fab_bottom_sheet.png) |
