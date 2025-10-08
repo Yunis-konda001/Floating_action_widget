@@ -47,6 +47,6 @@ FloatingActionButton(
 
 ## Screenshot of the Final UI
 
-| Floating Action Button | Bottom Sheet Open |
+|| Floating Action Button | Bottom Sheet Open |
 |-------------------------|------------------|
-| ![FAB Screenshot](lib/screenshoots/fab_home.png) | ![Bottom Sheet Screenshot](lib/screenshoots/fab_bottom_sheet.png) |
+| ![FAB Screenshot](https://i.imgur.com/oG6DqYn.png) | ![Bottom Sheet Screenshot](https://i.imgur.com/SrpZKQS.png) |
