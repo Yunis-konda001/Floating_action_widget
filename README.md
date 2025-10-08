@@ -38,6 +38,8 @@ Each option responds with a short **SnackBar** message to show user feedback.
 The **FloatingActionButton** is a circular button that appears above other content in an app.  
 It is used to perform the app’s **primary or most common action**.  
 
+<img width="617" height="573" alt="fab_home" src="https://github.com/user-attachments/assets/47e2dc57-5298-46e8-b943-500d26e5257a" />
+
 In Flutter, it’s built using:
 ```dart
 FloatingActionButton(
