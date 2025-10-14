@@ -46,6 +46,7 @@ FloatingActionButton(
   backgroundColor: ... // color of the button
 )
 
+<<<<<<< HEAD
 
 ## Screenshots
 
@@ -53,6 +54,8 @@ FloatingActionButton(
 |-------------------------|------------------|
 ![FAB Screenshot](lib/screenshoots/fab_home.png) | ![Bottom Sheet Screenshot](lib/screenshoots/fab_bottom_sheet.png) 
 
+=======
+>>>>>>> a73f708e53a24cdeb7553fcf87a29ca24b77c939
 ## How to Run This App
 
 1. **Clone this repository**
@@ -91,6 +94,17 @@ FloatingActionButton(
 
 Feel free to fork this project and experiment with different FAB configurations! This is a learning project, so any improvements or creative modifications are welcome.
 
----
 
-*Created for Flutter Development Class - Demonstrating the power of FloatingActionButton widget* 🎓
+## Screenshots
+
+Below are the screenshots of the floating action demo
+
+<img width="617" height="573" alt="fab_home" src="https://github.com/user-attachments/assets/47e2dc57-5298-46e8-b943-500d26e5257a" />
+
+<img width="621" height="571" alt="fab_bottom_sheet" src="https://github.com/user-attachments/assets/5a84867f-d5f0-49ad-a5cb-8c386a38ede7" />
+
+
+
+
+
+
