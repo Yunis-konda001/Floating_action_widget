@@ -1,4 +1,3 @@
-# Document Scanner App
 
 **Created by:** Kumi Yunis Konda  
 **Course:** Mobile development  
@@ -98,6 +97,7 @@ Feel free to fork this project and experiment with different FAB configurations!
 
 Document Scanner app interface with FloatingActionButton integration:
 
-<img width="617" height="573" alt="fab_home" src="https://github.com/user-attachments/assets/47e2dc57-5298-46e8-b943-500d26e5257a" />
+<img width="734" height="762" alt="fab_home" src="https://github.com/user-attachments/assets/a740584d-d453-42db-a84d-210023195542" />
 
-<img width="621" height="571" alt="fab_bottom_sheet" src="https://github.com/user-attachments/assets/5a84867f-d5f0-49ad-a5cb-8c386a38ede7" />
+<img width="749" height="759" alt="image" src="https://github.com/user-attachments/assets/b612cedc-9916-46ec-bad3-651e7ef67bfe" /># Document Scanner App
+
